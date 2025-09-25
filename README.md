@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://pypi.org/user/n.sotostuardo/"><img src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"></a>
   </a>
-  <a href="https://orcid.org/0009-0009-2880-3327"><img src= "https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <!--<a href="https://orcid.org/0009-0009-2880-3327"><img src= "https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>-->
 </p>
 
 ## Lenguajes
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
   <a><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
-  <a><img src="https://github.com/astropy/astropy-logo/blob/main/astropy_logo_small.svg"></a>
+  <!--<a><img src="https://github.com/astropy/astropy-logo/blob/main/astropy_logo_small.svg"></a> -->
   <a><img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a>
   <a><img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 
