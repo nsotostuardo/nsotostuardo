@@ -1,19 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nsotostuardo/nsotostuardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nico — a graduated astrophysicist turned software engineer, currently majoring in AI.  
+I love working on computational simulations, machine learning, and anything that says code or astrophysics. 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm currently up to
+- Trying to optimice code.  😭
+- Learning CUDA.
+- Exploring ways to combine physics and AI.
+
 
 ## 😸 Contributions
 <p align="center">
